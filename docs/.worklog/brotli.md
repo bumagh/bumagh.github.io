@@ -132,4 +132,4 @@ http {
 git clone https://github.com/google/ngx_brotli
 cd ngx_brotli && git submodule update --init
 
--add-module=/www/server/ngx_brotli
+--add-module=/www/server/ngx_brotli
