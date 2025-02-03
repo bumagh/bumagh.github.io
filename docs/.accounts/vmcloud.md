@@ -1,4 +1,7 @@
 # 公司
+118.31.188.172:8080/fa403e4e
+wyjz
+Wyjz.2025
 # 自己
 ## tencent
 ###  debian 12 
