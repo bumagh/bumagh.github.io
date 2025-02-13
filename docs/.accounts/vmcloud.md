@@ -1,7 +1,9 @@
-# 公司
-118.31.188.172:8080/fa403e4e
-wyjz
-Wyjz.2025
+# 华梦
+mysql
+xdm64398956.my3w.com
+dbname:xdm64398956_db
+username:xdm64398956
+huamengmysql year.
 # 自己
 ## tencent
 ###  debian 12 
