@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,Q as r}from"./chunks/framework.1c8de9a3.js";const m=JSON.parse('{"title":"永生观","description":"","frontmatter":{},"headers":[],"relativePath":"eternal/inbox.md","filePath":"eternal/inbox.md"}'),o={name:"eternal/inbox.md"},n=r("",5),i=[n];function l(h,s,c,d,_,u){return e(),t("div",null,i)}const f=a(o,[["render",l]]);export{m as __pageData,f as default};
