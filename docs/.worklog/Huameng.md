@@ -53,3 +53,4 @@ HuamengYear.
 
 
 # kuaishou
+# palmplay://thirdlauncher.com/?entryType=AppDetail&packageName=com.pskj.AlpacaBigAdventures
